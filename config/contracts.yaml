@@ -1,0 +1,37 @@
+tokens:
+  1INCH: 
+    ETH: 
+      chainlink:
+        mainnet: '0x72AFAECF99C9d9C8215fF44C77B94B99C28741e8'
+    USD:
+      chainlink:
+        mainnet: '0xc929ad75B72593967DE83E7F7Cda0493458261D9'
+
+
+  AAPL: 
+    USD:
+      chainlink:
+        mainnet: '0x139C8512Cde1778e9b9a8e721ce1aEbd4dD43587'
+
+  AAVE: 
+    ETH: 
+      chainlink:
+        mainnet: '0x6Df09E975c830ECae5bd4eD9d90f3A95a4f88012'
+        kovan: '0xd04647B7CB523bb9f26730E9B6dE1174db7591Ad'
+    USD:
+      chainlink:
+        mainnet: '0x547a514d5e3769680Ce22B2361c10Ea13619e8a9'
+
+
+  AMPL: 
+    ETH: 
+      chainlink:
+        mainnet: '0x492575FDD11a0fCf2C6C719867890a7648d526eB'
+        kovan: '0x562C092bEb3a6DF77aDf0BB604F52c018E4f2814'
+    USD:
+      chainlink:
+        mainnet: '0xe20CA8D7546932360e37E9D72c1a47334af57706'
+
+
+
+
